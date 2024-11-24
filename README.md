@@ -36,6 +36,6 @@ This repository contains the backend implementation of a simple Task Manager app
 ```
 <p align="center">
         <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,expressjs,mongoose,jest"/>
-      </a><img src="https://github.com/user-attachments/assets/f6592d31-c67e-43b2-8804-3b2d68fc3220"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=js,vscode,nodejs,expressjs,mongoose,jest,mongo"/>
+      </a>
 </p>
