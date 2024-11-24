@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-task-manager",
+  "version": "1.0.0",
+  "description": "The project contains the back-end code of a task manager app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --coverage",
+    "test:detect": "jest --detectOpenHandles",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "geozi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mockingoose": "^2.16.2",
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.8.2",
+    "mongoose-unique-validator": "^4.0.1"
+  }
+}

@@ -1,0 +1,20 @@
+module.exports = {
+  USERNAME_REQUIRED: "Username is a required field",
+  USERNAME_MIN_LENGTH: "Username must be at least 3 characters long",
+  USERNAME_MAX_LENGTH: "Username must be no longer than 20 characters",
+  EMAIL_REQUIRED: "Email is a required field",
+  EMAIL_INVALID: "Invalid email address",
+  PASSWORD_REQUIRED: "Password is a required field",
+  PASSWORD_MIN_LENGTH: "Password must be at least 7 characters long",
+  PASSWORD_MUST_HAVE_CHARACTERS:
+    "Password must contain at least one lowercase character, one uppercase character, one number, and a special symbol.",
+  TITLE_REQUIRED: "Title is a required field",
+  TITLE_MAX_LENGTH: "Title must be no longer than 100 characters",
+  TITLE_UNIQUE: "Title must be unique",
+  DESCRIPTION_MAX_LENGTH: "Description must be no longer than 300 characters",
+  STATUS_REQUIRED: "Status is a required field",
+  STATUS_INVALID: "Status field must be either pending or complete",
+  ID_REQUIRED: "ID is a required field",
+  ID_INVALID: "ID must contain only alphanumeric characters",
+  ID_LENGTH: "ID must be no shorter than 24 characters",
+};
